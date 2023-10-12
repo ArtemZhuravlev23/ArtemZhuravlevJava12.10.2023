@@ -3,8 +3,6 @@ import java.util.concurrent.ThreadLocalRandom;
 public class Rugby {
     public static void main(String[] args) {
 
-        String firstTeam = "Denver Nuggets";
-
         int minAge = 18;
         int maxAge = 40;
 
