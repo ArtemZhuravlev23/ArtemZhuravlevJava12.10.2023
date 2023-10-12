@@ -18,7 +18,7 @@ public class Rugby {
         System.out.println('\n' + "Middle age of first squad team: ");
         averageAge(firstTeamPlayers);
 
-        System.out.println('\n' + "Middle age of first squad team: ");
+        System.out.println('\n' + "Middle age of second squad team: ");
         averageAge(secondTeamPlayers);
 
     }
